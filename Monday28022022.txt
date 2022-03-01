@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-CHANGED -> FIRST
-=======
 CHANGED -> FIRST -> SECOND
->>>>>>> SECONDB
+
 
 
 CHANGED
